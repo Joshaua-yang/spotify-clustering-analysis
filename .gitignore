@@ -1,0 +1,16 @@
+# .gitignore
+
+# 忽略虛擬環境資料夾
+.venv/
+venv/
+env/
+
+# 忽略 Python 編譯檔
+__pycache__/
+*.py[cod]
+
+# 忽略 Mac 系統垃圾檔
+.DS_Store
+
+# 忽略 Jupyter Notebook 的 checkpoint
+.ipynb_checkpoints
